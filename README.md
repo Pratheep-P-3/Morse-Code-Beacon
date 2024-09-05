@@ -1,9 +1,9 @@
 # Morse-Code-Beacon
+
 ## Introduction
 The Morse Code Beacon is to transmit messages via Morse code using an LED or buzzer. One can transmit predefined messages in Morse code, which consists of a series of dots (short signals) and dashes (long signals).
 The project offers flexibility for customization and is perfect for educational or signaling purposes.
 
-##Features
 ## Features
 Transmits Morse code messages with LED or buzzer.
 Customizable message and timing for dots, dashes, and pauses.
